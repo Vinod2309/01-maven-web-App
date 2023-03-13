@@ -1,8 +1,8 @@
 <html>
 <body>
-<h2>font color='red'>Welcome to Vinod IT..!!<font></h2>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'>DEV_JOB..OM GANAPATHAYA NAMAH..!! OM NAMAH SHIVAYA...!! HAPPY HOLI..!! After Holi Exam preparation<font></h1>
+<h2>Learn Here.. Lead AnyWhere..!!</h2>
 
-<a href="https://ashokittech.com/online-training-schedules">Click Here To See Training Schedules</a>
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Training Schedules</a>
 </body>
 </html>
